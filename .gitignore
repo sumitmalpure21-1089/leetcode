@@ -1,0 +1,35 @@
+# Java
+*.class
+*.war
+*.ear
+*.jar
+/bin/
+/build/
+/target/
+/*.iml
+/.idea/
+/.classpath
+/.project
+/.settings/
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+log/
+
+# Eclipse
+.metadata/
+
+# Mac files
+.DS_Store
+
+# VSCode
+.vscode/
+
+# IntelliJ
+out/
+
+# Misc
+*.log
